@@ -11,9 +11,6 @@
   <a href="https://github.com/maulanaikhsan55?tab=repositories">Repositori</a>
 </p>
 
-<p align="center">
-  <img src="assets/stack-map.svg" alt="Finance workflows: antarmuka, integrasi API, serta data dan otomasi untuk ERP dan rekonsiliasi" width="1040" />
-</p>
 
 ## 👋 Tentang saya
 
@@ -29,9 +26,22 @@ Saya membangun serta mengembangkan alur procurement, invoice, reimbursement, dan
 
 ## 🧰 Bahasa dan alat yang saya pakai
 
-<p align="center">
-  <img src="assets/tech-grid.svg" alt="Grid berwarna berisi logo Laravel, React, TypeScript, FastAPI, Python, PostgreSQL, PHP, JavaScript, Tailwind CSS, dan Git" width="1040" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/laravel-original.svg" alt="Laravel" width="52" height="52" /><br /><strong>Laravel</strong></td>
+    <td align="center"><img src="assets/icons/react-original.svg" alt="React" width="52" height="52" /><br /><strong>React</strong></td>
+    <td align="center"><img src="assets/icons/typescript-original.svg" alt="TypeScript" width="52" height="52" /><br /><strong>TypeScript</strong></td>
+    <td align="center"><img src="assets/icons/fastapi-original.svg" alt="FastAPI" width="52" height="52" /><br /><strong>FastAPI</strong></td>
+    <td align="center"><img src="assets/icons/python-original.svg" alt="Python" width="52" height="52" /><br /><strong>Python</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/postgresql-original.svg" alt="PostgreSQL" width="52" height="52" /><br /><strong>PostgreSQL</strong></td>
+    <td align="center"><img src="assets/icons/php-original.svg" alt="PHP" width="52" height="52" /><br /><strong>PHP</strong></td>
+    <td align="center"><img src="assets/icons/javascript-original.svg" alt="JavaScript" width="52" height="52" /><br /><strong>JavaScript</strong></td>
+    <td align="center"><img src="assets/icons/tailwindcss-original.svg" alt="Tailwind CSS" width="52" height="52" /><br /><strong>Tailwind CSS</strong></td>
+    <td align="center"><img src="assets/icons/git-original.svg" alt="Git" width="52" height="52" /><br /><strong>Git</strong></td>
+  </tr>
+</table>
 
 <p align="center"><sub>Antarmuka · Backend &amp; API · Data · Otomasi. Logo teknologi dari <a href="https://github.com/devicons/devicon">Devicon</a>.</sub></p>
 
