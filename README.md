@@ -1,30 +1,29 @@
-<h1 align="center">Halo, saya Maulana Muhammad Ikhsan 👋</h1>
+<h1 align="center">Hi, I'm Maulana Muhammad Ikhsan 👋</h1>
 
 <p align="center">
-  <strong>Finance Automation &amp; Full-Stack Developer</strong><br />
-  ERP integration · Bank &amp; sales reconciliation · Workflow automation
+  <strong>Finance Automation &amp; Full Stack Developer</strong><br />
+  Building reliable ERP integrations, reconciliation systems, and workflow tools
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maulanamuhammadikhsan/">LinkedIn</a> ·
-  <a href="https://myportfolio-phi-nine-86.vercel.app">Portofolio</a> ·
-  <a href="https://github.com/maulanaikhsan55?tab=repositories">Repositori</a>
+  <a href="https://myportfolio-phi-nine-86.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/maulanaikhsan55?tab=repositories">Repositories</a>
 </p>
 
+## About me
 
-## 👋 Tentang saya
+I build software that makes finance operations easier to run, verify, and understand. My background in Accounting Information Systems at Telkom University informs how I approach both business processes and engineering decisions.
 
-Latar belakang saya adalah Sistem Informasi Akuntansi di Telkom University. Saya bekerja di pertemuan antara proses finance, pengembangan aplikasi, dan integrasi sistem: membuat pekerjaan operasional lebih mudah dijalankan, diperiksa, dan ditelusuri.
+My work spans procurement, invoicing, inventory, reimbursements, and bank and sales reconciliation. It includes integrating Accurate Online, processing sales reports, and turning bank statements into structured data for review. You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/maulanamuhammadikhsan/).
 
-Saya membangun serta mengembangkan alur procurement, invoice, reimbursement, dan rekonsiliasi. Pekerjaan saya mencakup integrasi Accurate Online, pemrosesan laporan penjualan, dan parser mutasi bank untuk menghasilkan data yang siap divalidasi. Lebih lengkap tentang pengalaman saya ada di [LinkedIn](https://www.linkedin.com/in/maulanamuhammadikhsan/).
+## What I work on
 
-## 🔎 Yang saya kerjakan
+- **Finance & ERP workflows** — connect procurement, invoices, inventory, and reimbursements with Accurate Online processes.
+- **Reconciliation & data processing** — normalize bank statements and sales reports to support transaction matching and validation.
+- **Automation & reliability** — build APIs and n8n workflows, backed by testing, debugging, and documentation.
 
-- **ERP &amp; finance workflows** — purchase order, invoice, stock, dan reimbursement yang terhubung dengan proses Accurate Online.
-- **Rekonsiliasi bank &amp; penjualan** — membaca laporan dan rekening koran, menormalkan data, lalu membantu validasi serta pencocokan transaksi.
-- **Otomasi &amp; keandalan** — API antarsistem, alur n8n, pengujian, debugging, dan dokumentasi agar hasil bisa diperiksa kembali.
-
-## 🧰 Bahasa dan alat yang saya pakai
+## Technologies I use
 
 <table align="center">
   <tr>
@@ -43,15 +42,15 @@ Saya membangun serta mengembangkan alur procurement, invoice, reimbursement, dan
   </tr>
 </table>
 
-<p align="center"><sub>Antarmuka · Backend &amp; API · Data · Otomasi. Logo teknologi dari <a href="https://github.com/devicons/devicon">Devicon</a>.</sub></p>
+<p align="center"><sub>Interfaces · APIs · Data · Automation. Technology logos by <a href="https://github.com/devicons/devicon">Devicon</a>.</sub></p>
 
-## 💼 Pekerjaan pilihan
+## Selected work
 
-- **[Tomoro Bridging Internal](https://myportfolio-phi-nine-86.vercel.app/project-details/tomoro-bridging)** — menghubungkan procurement, invoice, stok, dan rekonsiliasi dengan Accurate Online.
-- **[Zeirec](https://myportfolio-phi-nine-86.vercel.app/project-details/zeirec)** — workspace finance untuk reimbursement, rekonsiliasi, dan integrasi antarsistem.
-- **[API Bank Reconcile](https://myportfolio-phi-nine-86.vercel.app/project-details/api-bank-reconcile)** — parser mutasi bank menjadi data terstruktur untuk sistem rekonsiliasi.
-- **[DuckCost](https://myportfolio-phi-nine-86.vercel.app/project-details/duckcost)** — aplikasi perhitungan biaya produksi untuk UMKM.
+- **[Tomoro Bridging Internal](https://myportfolio-phi-nine-86.vercel.app/project-details/tomoro-bridging)** — connects procurement, invoicing, inventory, and reconciliation with Accurate Online.
+- **[Zeirec](https://myportfolio-phi-nine-86.vercel.app/project-details/zeirec)** — a finance workspace for reimbursements, reconciliation, and system integrations.
+- **[API Bank Reconcile](https://myportfolio-phi-nine-86.vercel.app/project-details/api-bank-reconcile)** — parses bank statements into structured data for reconciliation.
+- **[DuckCost](https://myportfolio-phi-nine-86.vercel.app/project-details/duckcost)** — helps small businesses calculate production costs.
 
-## 📬 Terhubung
+## Connect
 
-Lihat pengalaman saya di [LinkedIn](https://www.linkedin.com/in/maulanamuhammadikhsan/) atau eksplorasi karya lain di [portofolio](https://myportfolio-phi-nine-86.vercel.app).
+Find my experience on [LinkedIn](https://www.linkedin.com/in/maulanamuhammadikhsan/) or explore more work in my [portfolio](https://myportfolio-phi-nine-86.vercel.app).
