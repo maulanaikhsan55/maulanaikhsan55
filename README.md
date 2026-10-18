@@ -30,18 +30,7 @@ Saya membangun serta mengembangkan alur procurement, invoice, reimbursement, dan
 ## 🧰 Bahasa dan alat yang saya pakai
 
 <p align="center">
-  <img src="assets/icons/laravel-original.svg" alt="Laravel" title="Laravel" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/react-original.svg" alt="React" title="React" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/typescript-original.svg" alt="TypeScript" title="TypeScript" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/python-original.svg" alt="Python" title="Python" width="58" height="58" />
-</p>
-<p align="center">
-  <img src="assets/icons/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/php-original.svg" alt="PHP" title="PHP" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/javascript-original.svg" alt="JavaScript" title="JavaScript" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="58" height="58" /> &nbsp;
-  <img src="assets/icons/git-original.svg" alt="Git" title="Git" width="58" height="58" />
+  <img src="assets/tech-grid.svg" alt="Grid berwarna berisi logo Laravel, React, TypeScript, FastAPI, Python, PostgreSQL, PHP, JavaScript, Tailwind CSS, dan Git" width="1040" />
 </p>
 
 <p align="center"><sub>Antarmuka · Backend &amp; API · Data · Otomasi. Logo teknologi dari <a href="https://github.com/devicons/devicon">Devicon</a>.</sub></p>

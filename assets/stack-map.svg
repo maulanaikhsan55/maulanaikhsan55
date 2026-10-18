@@ -20,9 +20,9 @@
   <circle cx="900" cy="69" r="6" fill="#69e0ce"/>
   <circle cx="932" cy="82" r="6" fill="#69e0ce"/>
   <circle cx="969" cy="49" r="6" fill="#69e0ce"/>
-  <rect x="40" y="218" width="300" height="217" rx="18" fill="#142438" stroke="#37506a"/>
-  <rect x="370" y="218" width="300" height="217" rx="18" fill="#142438" stroke="#37506a"/>
-  <rect x="700" y="218" width="300" height="217" rx="18" fill="#142438" stroke="#37506a"/>
+  <rect x="40" y="218" width="300" height="217" rx="18" fill="#1b2e59" stroke="#627cd1"/>
+  <rect x="370" y="218" width="300" height="217" rx="18" fill="#423044" stroke="#bd7d9a"/>
+  <rect x="700" y="218" width="300" height="217" rx="18" fill="#16403f" stroke="#53c9b7"/>
   <rect x="40" y="218" width="300" height="5" rx="2" fill="#8daaff"/>
   <rect x="370" y="218" width="300" height="5" rx="2" fill="#f0ba72"/>
   <rect x="700" y="218" width="300" height="5" rx="2" fill="#69e0ce"/>
